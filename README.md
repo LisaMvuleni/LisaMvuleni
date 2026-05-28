@@ -20,15 +20,32 @@ I am a passionate Software Development student focused on building modern applic
 ## 💻 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/>
+  <br><strong>C#</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
+  <br><strong>JavaScript</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+  <br><strong>React</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/>
+  <br><strong>ASP.NET Core</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+  <br><strong>Docker</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+  <br><strong>PostgreSQL</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+  <br><strong>GitHub</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  <br><strong>Git</strong><br><br>
+
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48"/>
+  <br><strong>Visual Studio</strong>
 </p>
 
 ---
@@ -53,7 +70,4 @@ To continuously improve my development skills and build scalable, reliable, and 
 
 ## 🧩 Fun Fact About Me
 
-## 🧩 Fun Fact About Me
-
 I enjoy learning new technologies and turning creative ideas into real software solutions. ✨
-
