@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Lisa Mvuleni
 
-<!--
-**LisaMvuleni/LisaMvuleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Sprinter | Aspiring Full-Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+I am a passionate Software Development student focused on building modern applications, improving my coding skills, and creating efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+
+* Backend development with ASP.NET Core Web API
+* Frontend development with React
+* Database design and SQL
+* Learning Clean Architecture
+* Building practical software projects
+* Debugging and problem solving
+
+---
+
+## 💻 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="48" height="48"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Clean Architecture principles
+* Event-Driven and Distributed Systems
+* Message Broker Integration with RabbitMQ
+* Modern Frontend Development with React
+* Containerization and Deployment with Docker
+* Scalable Enterprise Application Development
+* Software Design Patterns and Best Practices
+
+---
+
+## 🎯 Goal
+
+To continuously improve my development skills and build scalable, reliable, and impactful software solutions.
+
+---
+
+## 🧩 Fun Fact About Me
+
+## 🧩 Fun Fact About Me
+
+I enjoy learning new technologies and turning creative ideas into real software solutions. ✨
+
