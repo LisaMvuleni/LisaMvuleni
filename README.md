@@ -65,9 +65,3 @@ I am a passionate Software Development student focused on building modern applic
 ## 🎯 Goal
 
 To continuously improve my development skills and build scalable, reliable, and impactful software solutions.
-
----
-
-## 🧩 Fun Fact About Me
-
-I enjoy learning new technologies and turning creative ideas into real software solutions. ✨
